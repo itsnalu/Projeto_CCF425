@@ -30,20 +30,20 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 
 ## Perguntas
 
-1. **Qual é a distribuição temporal das ocorrências (por ano, mês, dia da semana e horário)?**
-2. **Quais são as regiões (cidades, bairros, coordenadas geográficas) com maior incidência de ocorrências?**
+1. ⭐⭐⭐(bom pra ver se a violencia diminuiu com os anos passados ou nao)**Qual é a distribuição temporal das ocorrências (por ano, mês, dia da semana e horário)?**
+2. ⭐**Quais são as regiões (cidades, bairros, coordenadas geográficas) com maior incidência de ocorrências?** **Pergunta 2 e pergunta 12 sao basicamente a mesma ideia**
 3. **Como a natureza das ocorrências se distribui e quais são as categorias mais comuns?**
-4. **Existe correlação entre a idade, o sexo e o tipo de ocorrência?**
-5. **Qual é o tempo médio entre a ocorrência, a emissão do boletim e a comunicação dos fatos?**
-6. **Como os atributos relacionados a veículos (marca, modelo, ano de fabricação e cidade) se relacionam com os tipos de ocorrências?**
-7. **Quais delegacias, departamentos ou seccionais concentram maior número de ocorrências?**
-8. **Qual a distribuição dos períodos do dia (manhã, tarde, noite, madrugada) nas ocorrências?**
-9. **Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?**
-10. **Como os diferentes tipos de locais (residencial, comercial, público, etc.) influenciam na ocorrência dos incidentes?**
-11. **Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipos de ocorrências?**
-12. **Como as características geográficas (cidade, bairro, UF) se relacionam com a incidência de mortes fatais?**
-13. **Qual a relação entre o horário/período das ocorrências e a gravidade dos incidentes fatais?**
-14. **Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?**
+4. ⭐⭐⭐⭐(maravilhoso)**Existe correlação entre a idade, o sexo e o tipo de ocorrência?**
+5. ⭐⭐(dificil, mas é bom)**Qual é o tempo médio entre a ocorrência, a emissão do boletim e a comunicação dos fatos?**
+6. ⭐⭐(interessante, mas pode ser dificil ver qual carro, nao sei como estao os dados em relacao a isso)**Como os atributos relacionados a veículos (marca, modelo, ano de fabricação e cidade) se relacionam com os tipos de ocorrências?**
+7. (meio paia)**Quais delegacias, departamentos ou seccionais concentram maior número de ocorrências?**
+8. ⭐⭐⭐⭐(maravilhoso)**Qual a distribuição dos períodos do dia (manhã, tarde, noite, madrugada) nas ocorrências?**
+9. ⭐⭐(se for a ideia de quanto maior a idade menor crime é interessante pq ele passou na sala hoje isso)**Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?**
+10. ⭐(meio meh)**Como os diferentes tipos de locais (residencial, comercial, público, etc.) influenciam na ocorrência dos incidentes?**
+11. ⭐⭐(pode ser dificil de ser feito)**Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipos de ocorrências?**
+12. ⭐⭐(se for ver quais sao os top 50 piores bairros, por exemplo, acho interessante)**Como as características geográficas (cidade, bairro, UF) se relacionam com a incidência de mortes fatais?** **Pergunta 2 e pergunta 12 sao basicamente a mesma ideia**
+13. ⭐⭐(pode ser criadas ideias de "quanto mais tarde da noite mais chance de morte)"**Qual a relação entre o horário/período das ocorrências e a gravidade dos incidentes fatais?**
+14. ⭐⭐⭐⭐(maravilhoso)**Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?**
 
 ---
 
