@@ -31,7 +31,7 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 ## Perguntas
 
 1. ⭐⭐⭐(bom pra ver se a violencia diminuiu com os anos passados ou nao)**Qual é a distribuição temporal das ocorrências (por ano, mês, dia da semana e horário)?**
-2. ⭐**Quais são as regiões (cidades, bairros, coordenadas geográficas) com maior incidência de ocorrências?** **Pergunta 2 e pergunta 12 sao basicamente a mesma ideia**
+2. ⭐⭐⭐(achei legal)Como se distribuem os perfis de pessoas envolvidas (vítimas/autores) em termos de idade, sexo e cor de pele (fatores demográficos)?
 3. **Como a natureza das ocorrências se distribui e quais são as categorias mais comuns?**
 4. ⭐⭐⭐⭐(maravilhoso)**Existe correlação entre a idade, o sexo e o tipo de ocorrência?**
 5. ⭐⭐(dificil, mas é bom)**Qual é o tempo médio entre a ocorrência, a emissão do boletim e a comunicação dos fatos?**
@@ -41,7 +41,7 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 9. ⭐⭐(se for a ideia de quanto maior a idade menor crime é interessante pq ele passou na sala hoje isso)**Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?**
 10. ⭐(meio meh)**Como os diferentes tipos de locais (residencial, comercial, público, etc.) influenciam na ocorrência dos incidentes?**
 11. ⭐⭐(pode ser dificil de ser feito)**Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipos de ocorrências?**
-12. ⭐⭐(se for ver quais sao os top 50 piores bairros, por exemplo, acho interessante)**Como as características geográficas (cidade, bairro, UF) se relacionam com a incidência de mortes fatais?** **Pergunta 2 e pergunta 12 sao basicamente a mesma ideia**
+12. ⭐⭐(se for ver quais sao os top 50 piores bairros, por exemplo, acho interessante)**Como as características geográficas (cidade, bairro, UF) se relacionam com a incidência de mortes fatais?**
 13. ⭐⭐(pode ser criadas ideias de "quanto mais tarde da noite mais chance de morte)"**Qual a relação entre o horário/período das ocorrências e a gravidade dos incidentes fatais?**
 14. ⭐⭐⭐⭐(maravilhoso)**Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?**
 
