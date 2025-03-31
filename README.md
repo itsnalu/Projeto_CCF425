@@ -8,7 +8,7 @@ Este repositório contém o projeto desenvolvido para a análise dos dados de cr
 
 - [Objetivo](#objetivo)
 - [Introdução](#introdução)
-- [Perguntas de Pesquisa](#perguntas-de-pesquisa)
+- [Perguntas](#perguntas)
 - [Integrantes do Grupo](#integrantes-do-grupo)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 
@@ -28,7 +28,7 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 
 ---
 
-## Perguntas de Pesquisa
+## Perguntas
 
 1. **Qual é a distribuição temporal das ocorrências (por ano, mês, dia da semana e horário)?**
 2. **Quais são as regiões (cidades, bairros, coordenadas geográficas) com maior incidência de ocorrências?**
