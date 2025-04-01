@@ -1,0 +1,21 @@
+Qual é o ano, mês, dia da semana e horário que mais houveram ocorrências registradas em 2022?
+
+Como se distribuem os perfis de pessoas envolvidas (vítimas/autores) em termos de idade, sexo e cor de pele (fatores demográficos)?
+
+Qual a natureza e espécie de crimes mais comuns?
+
+Qual é o tempo médio entre a ocorrência, a elaboração do boletim e a comunicação dos fatos?
+
+Quais são 3 tipos de relacionamentos possíveis entre veículos (marca, modelo, ano de fabricação e cidade) e crimes patrimoniais?
+
+Existe alguma relação entre período das ocorrências e a gravidade dos incidentes fatais?
+
+Qual a distribuição dos períodos do dia (manhã, tarde, noite, madrugada) nas ocorrências?
+
+Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?
+
+Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?
+
+Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?
+
+Qual é a cidade, bairro e rua com mais ocorrências registradas em 2022?
