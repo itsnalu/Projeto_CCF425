@@ -30,17 +30,17 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 
 ## Perguntas
 
-1. Qual é o ano, mês, dia da semana e horário que mais houveram ocorrências registradas em 2022?
-2. Como se distribuem os perfis de pessoas envolvidas (vítimas/autores) em termos de idade, sexo e cor de pele (fatores demográficos)?
-3. Qual a natureza e espécie de crimes mais comuns?
-4. Qual é o tempo médio entre a ocorrência, a elaboração do boletim e a comunicação dos fatos?
-5. Quais são 3 tipos de relacionamentos possíveis entre veículos (marca, modelo, ano de fabricação e cidade) e crimes patrimoniais?
-6. Existe alguma relação entre período das ocorrências e a gravidade dos incidentes fatais?
-7. Qual a distribuição dos períodos do dia (manhã, tarde, noite, madrugada) nas ocorrências?
-8. Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?
-9. Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?
-10. Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?
-11. Qual é a cidade, bairro e rua com mais ocorrências registradas em 2022?
+1. **Qual é o ano, mês, dia da semana e horário que mais houveram ocorrências registradas em 2022?**
+2. **Como se distribuem os perfis de pessoas envolvidas (vítimas/autores) em termos de idade, sexo e cor de pele (fatores demográficos)?**
+3. **Qual a natureza e espécie de crimes mais comuns?**
+4. **Qual é o tempo médio entre a ocorrência, a elaboração do boletim e a comunicação dos fatos?**
+5. **Quais são 3 tipos de relacionamentos possíveis entre veículos (marca, modelo, ano de fabricação e cidade) e crimes patrimoniais?**
+6. **Existe alguma relação entre período das ocorrências e a gravidade dos incidentes fatais?**
+7. **Qual a distribuição dos períodos do dia (manhã, tarde, noite, madrugada) nas ocorrências?**
+8. **Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?**
+9. **Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?**
+10. **Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?**
+11. **Qual é a cidade, bairro e rua com mais ocorrências registradas em 2022?**
 
 
 ---
