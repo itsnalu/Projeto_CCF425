@@ -11,6 +11,7 @@ Este repositório contém o projeto desenvolvido para a análise dos dados de cr
 - [Perguntas](#perguntas)
 - [Integrantes do Grupo](#integrantes-do-grupo)
 - [Estrutura do Projeto](#estrutura-do-projeto)
+- [Observações](#observações) 
 - [Referências](#referências)
 
 ---
@@ -64,6 +65,15 @@ O projeto está organizado da seguinte forma:
 - **/data**: Contém todos os arquivos de dados utilizados durante o trabalho prático. Isso inclui o datasets com os dados dos alunos, que é o foco do trabalho, bem como outros datasets auxiliares que poderão ser utilizados para responder certas perguntas no trabalho.
 - **/src**:  É a pasta que contém os arquivos .py e .ipynb criados durante o trabalho.
 - **README.md**: Arquivo de documentação.
+
+---
+
+## Observações
+
+É importante ressaltar é que ao fim do tratamento, correção e enriquecimento do dataset, terminamos com algumas colunas que não existiam no dataset original, que são:
+
+FAIXA_ETARIA;
+DIA_OCORRENCIA;
 
 ---
 
