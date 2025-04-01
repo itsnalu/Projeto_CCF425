@@ -10,7 +10,6 @@ Este repositório contém o projeto desenvolvido para a análise dos dados de cr
 - [Introdução](#introdução)
 - [Perguntas](#perguntas)
 - [Integrantes do Grupo](#integrantes-do-grupo)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Observações](#observações) 
 - [Referências](#referências)
 
@@ -55,16 +54,6 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 | Lucas da Costa Moreira           | 5377      |
 | Aléxia Karoline Augusta Germano  | 5373      |
 | Daniel Martins de Abreu          | 5798      |
-
----
-
-## Estrutura do Projeto
-
-O projeto está organizado da seguinte forma:
-
-- **/data**: Contém todos os arquivos de dados utilizados durante o trabalho prático. Isso inclui o datasets com os dados dos alunos, que é o foco do trabalho, bem como outros datasets auxiliares que poderão ser utilizados para responder certas perguntas no trabalho.
-- **/src**:  É a pasta que contém os arquivos .py e .ipynb criados durante o trabalho.
-- **README.md**: Arquivo de documentação.
 
 ---
 
