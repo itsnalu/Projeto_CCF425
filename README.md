@@ -1,6 +1,6 @@
 # Projeto SPSafe - Dados de Criminalidade de SP
 
-Este repositório contém o projeto desenvolvido para a análise dos dados de criminalidade de São Paulo (SPSafe). O objetivo é explorar e responder a questões relevantes sobre a criminalidade, identificando padrões, correlações e tendências que possam contribuir para a compreensão dos dados e aplicação prática dos aprendizados adquiridos na matéria CCF425.
+Este repositório contém o projeto desenvolvido para a análise dos dados de criminalidade de São Paulo (SPSafe). O objetivo é explorar e responder a questões relevantes sobre a criminalidade, identificando padrões, correlações e tendências que possam contribuir para a compreensão dos dados e aplicação prática dos aprendizados adquiridos na matéria CCF425. A primeira entrega parcial está na branch **Entrega1**.
 
 ---
 
