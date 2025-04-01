@@ -11,7 +11,7 @@ Este repositório contém o projeto desenvolvido para a análise dos dados de cr
 - [Perguntas](#perguntas)
 - [Integrantes do Grupo](#integrantes-do-grupo)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Referências](#referencias)
+- [Referências](#referências)
 
 ---
 
