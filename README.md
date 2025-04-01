@@ -69,11 +69,11 @@ O projeto está organizado da seguinte forma:
 
 ## Referências
 
-[Principais técnicas para lidar com valores ausentes](https://www.datacamp.com/pt/tutorial/techniques-to-handle-missing-data-values)
-[6 truques do Pandas para impulsionar sua análise de dados](https://www.insightlab.ufc.br/6-truques-do-pandas-para-impulsionar-sua-analise-de-dados/)
-[IBGE](https://www.ibge.gov.br/explica/codigos-dos-municipios.php)
-[Data Types and Missing Values](https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
-[Indexing, Selecting & Assigning](https://www.kaggle.com/learn/pandas)
+- [Principais técnicas para lidar com valores ausentes](https://www.datacamp.com/pt/tutorial/techniques-to-handle-missing-data-values)
+- [6 truques do Pandas para impulsionar sua análise de dados](https://www.insightlab.ufc.br/6-truques-do-pandas-para-impulsionar-sua-analise-de-dados/)
+- [IBGE](https://www.ibge.gov.br/explica/codigos-dos-municipios.php)
+- [Data Types and Missing Values](https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
+- [Indexing, Selecting & Assigning](https://www.kaggle.com/learn/pandas)
 
 ---
 
