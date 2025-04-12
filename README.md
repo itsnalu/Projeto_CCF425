@@ -10,7 +10,7 @@ Este repositório contém o projeto desenvolvido para a análise dos dados de cr
 - [Introdução](#introdução)
 - [Perguntas](#perguntas)
 - [Integrantes do Grupo](#integrantes-do-grupo)
-- [Documentação das Tarefas](#documentação-das-tarefas-a-partir-da-entrega-2)
+- [Participação nas Tarefas](#participação-nas-tarefas-a-partir-da-entrega-2)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Observações](#observações) 
 - [Referências](#referências)
@@ -59,7 +59,7 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 
 ---
 
-## Documentação das Tarefas (a partir da Entrega 2)
+## Participação nas Tarefas (a partir da Entrega 2)
 
 A partir da **Entrega 2** do projeto, adotaremos uma abordagem mais estruturada para a documentação das tarefas realizadas por cada integrante do grupo, utilizando o **Github Projects** e utilizando um modelo simplificado do Kanban.
 
