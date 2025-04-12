@@ -10,6 +10,7 @@ Este repositório contém o projeto desenvolvido para a análise dos dados de cr
 - [Introdução](#introdução)
 - [Perguntas](#perguntas)
 - [Integrantes do Grupo](#integrantes-do-grupo)
+- [Documentação das Tarefas](#documentação-das-tarefas)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Observações](#observações) 
 - [Referências](#referências)
