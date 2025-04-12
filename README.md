@@ -58,6 +58,12 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 
 ---
 
+## Documentação das Tarefas (a partir da Entrega 2)
+
+A partir da **Entrega 2** do projeto, adotaremos uma abordagem mais estruturada para a documentação das tarefas realizadas por cada integrante do grupo, utilizando o **Github Projects** e utilizando um modelo simplificado do Kanban.
+
+---
+
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
