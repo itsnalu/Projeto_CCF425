@@ -43,8 +43,8 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 8. **Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?**
 9. **Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?**
 10. **Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?**
-11. **Qual é o município com mais ocorrências registradas em 2022?** (ALTERADA, anteriormente considerava bairro e rua)
-
+11. **Qual é o município com mais ocorrências registradas em 2022 em valores absolutos e relativos a população do município?** (PERGUNTA ATUALIZADA)
+12. **Qual é o bairro e rua com mais ocorrências registradas em 2022 em valores absolutos?** (PERGUNTA ADICIONADA)
 
 ---
 
