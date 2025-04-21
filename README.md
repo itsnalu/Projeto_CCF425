@@ -49,7 +49,7 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 14. **Quais foram os meses nos quais mais houveram ocorrências registradas em 2022?** (PERGUNTA ADICIONADA)
 15. **Quais foram os dias da semana nos quais mais houveram ocorrências registradas em 2022?** (PERGUNTA ADICIONADA)
 16. **Quais foram os horários nos quais mais houveram ocorrências registradas em 2022?** (PERGUNTA ADICIONADA)
-17. **Quais são os dias da semana e horários específicos com maior número de ocorrências?**
+17. **Quais são os dias da semana e horários específicos com maior número de ocorrências?** (PERGUNTA ADICIONADA)
 
 ---
 
