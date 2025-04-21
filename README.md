@@ -45,6 +45,7 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 10. **Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?**
 11. **Qual é o município com mais ocorrências registradas em 2022 em valores absolutos e relativos a população do município?** (PERGUNTA ATUALIZADA)
 12. **Qual é o bairro e logradouro com mais ocorrências registradas em 2022 em valores absolutos?** (PERGUNTA ADICIONADA)
+13. **Quais foram os 15 anos em que ocorreram mais crimes que só foram registrados em 2022, desconsiderando os crimes efetivamente cometidos em 2022**
 
 ---
 
