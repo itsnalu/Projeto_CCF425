@@ -40,7 +40,7 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 5. **Quais são 3 tipos de relacionamentos possíveis entre veículos (marca, modelo, ano de fabricação e cidade) e crimes patrimoniais?**
 6. **Existe alguma relação entre período das ocorrências e a gravidade dos incidentes fatais?**
 7. **Qual a distribuição dos períodos do dia (manhã, tarde, noite, madrugada) nas ocorrências?**
-8. **Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?**
+8. **Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos meses?** (PERGUNTA ATUALIZADA)
 9. ~~Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?~~ (PERGUNTA REMOVIDA)
 10. **Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?** 
 11. **Qual é o município com mais ocorrências registradas em 2022 em valores absolutos e relativos a população do município?** (PERGUNTA ATUALIZADA)
