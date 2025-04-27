@@ -34,15 +34,15 @@ No entanto, a estrutura desses dados frequentemente apresenta inconsistências, 
 ## Perguntas
 
 1. **Quais foram os anos nos quais mais houveram ocorrências registradas em 2022?** (PERGUNTA FRAGMENTADA EM 14, 15, 16)
-2. **Como se distribuem os perfis de pessoas envolvidas (vítimas/autores) em termos de idade, sexo e cor de pele (fatores demográficos)?**
+2. ~~Como se distribuem os perfis de pessoas envolvidas (vítimas/autores) em termos de idade, sexo e cor de pele (fatores demográficos)?~~ (PERGUNTA REMOVIDA)
 3. **Qual a natureza e espécie de crimes mais comuns?**
 4. **Qual é o tempo médio entre a ocorrência, a elaboração do boletim e a comunicação dos fatos?**
 5. **Quais são 3 tipos de relacionamentos possíveis entre veículos (marca, modelo, ano de fabricação e cidade) e crimes patrimoniais?**
 6. **Existe alguma relação entre período das ocorrências e a gravidade dos incidentes fatais?**
 7. **Qual a distribuição dos períodos do dia (manhã, tarde, noite, madrugada) nas ocorrências?**
 8. **Há alguma tendência de aumento ou diminuição nas ocorrências fatais ao longo dos anos?**
-9. **Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?**
-10. **Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?**
+9. ~~Quais perfis demográficos (sexo, profissão, cor de pele) estão mais presentes em ocorrências fatais?~~ (PERGUNTA REMOVIDA)
+10. **Existe uma faixa etária que apresenta maior probabilidade de fatalidades em determinados tipo de ocorrência?** 
 11. **Qual é o município com mais ocorrências registradas em 2022 em valores absolutos e relativos a população do município?** (PERGUNTA ATUALIZADA)
 12. **Qual é o bairro e logradouro com mais ocorrências registradas em 2022 em valores absolutos?** (PERGUNTA ADICIONADA)
 13. **Quais foram os 15 anos em que ocorreram mais crimes que só foram registrados em 2022, desconsiderando os crimes efetivamente cometidos em 2022** (PERGUNTA ADICIONADA)
